@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "526652194330",
+    "firebase_url": "https://fit2081-movielibrary-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fit2081-movielibrary",
+    "storage_bucket": "fit2081-movielibrary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526652194330:android:61eb64a4eac6834d405ba3",
+        "android_client_info": {
+          "package_name": "com.example.movieLibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526652194330-6jmoitfrqo57gsltsv9144rreafv55ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQXLz_a9j39T21VKylSFBLBq9r_iqKLaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526652194330-6jmoitfrqo57gsltsv9144rreafv55ng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526652194330:android:dbffb2cc21a0d5a4405ba3",
+        "android_client_info": {
+          "package_name": "com.example.movielibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526652194330-6jmoitfrqo57gsltsv9144rreafv55ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQXLz_a9j39T21VKylSFBLBq9r_iqKLaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526652194330-6jmoitfrqo57gsltsv9144rreafv55ng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
